@@ -1,32 +1,18 @@
 * {
-	padding: 0px;
-	font-family: Roboto, sans-serif;
-	box-sizing: border-box;
-	margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Serif', serif;
+    box-sizing: border-box;
+    margin: 0px;
 }
-.container {
-	background-color: lightblue;	
-	width: 100%;
+
+header {
+    background-color: #004466;
 }
-#menu ul {
-	background: rgb(130, 255, 249);
-	list-style-type: none;
-	text-align: center;
+
+.nav-link {
+    color: black;
+    font-size: 20px
 }
-#menu li {
-	color: black;
-	display: inline-block;
-	width: 120px;
-	height: 40px;
-	line-height: 40px;
-	margin-left: -5px;
-}
-#menu a {
-	text-decoration: none;
-	color: rgb(0, 0, 0);
-	display: block;
-}
-#menu a:hover {
-	background: #F1F1F1;
-	color: #333;
+#banner {
+    width: 100%;
 }
